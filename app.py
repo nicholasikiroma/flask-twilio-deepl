@@ -9,8 +9,8 @@ from db import mongo, User
 from bson import ObjectId
 
 from auth.customer import blp as customer_blp
-from auth.rep import blp as rep_blp
-from chat.twilio_chat import blp as chat_blp
+from auth.customer_rep import blp as rep_blp
+from conversations.twilio_chat import blp as chat_blp
 
 
 load_dotenv()
