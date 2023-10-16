@@ -8,12 +8,12 @@ A dynamic web chat application for real-time message translations based on prese
 
 Download or clone repo:
 ```bash
-git clone https://github.com/nicholasikiroma/test-flask-twilio-deepl.git
+git clone https://github.com/nicholasikiroma/flask-twilio-deepl.git
 ```
 
 Navigate to cloned directory:
 ```bash
-cd test-flask-twilio-deepl
+cd flask-twilio-deepl
 ```
 
 Create virtual environment and activate it:
